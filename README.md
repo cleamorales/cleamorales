@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Cléa!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/tinachi1)
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:youremail@example.com)
+[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourdomain.com)
 
-<!--
-**cleamorales/cleamorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github.com/user-attachments/assets/6721477c-67b2-4c1a-93c3-1c3787aa7955" width="310"/> 
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about learning, building, and improving as a developer. 
+I enjoy creating projects, experimenting with new technologies, and strengthening my understanding of programming and software design. 
+This GitHub is a collection of my projects and progress over time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests!
+- Reading 
+- Art
+- Hiking
+  
+## My Tech Stack!
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,git,github,vscode)](https://skillicons.dev)
+
+
+
+
