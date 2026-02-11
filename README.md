@@ -7,14 +7,11 @@
 I'm a Computer Science student passionate about learning, building, and improving as a developer. 
 I enjoy creating projects, experimenting with new technologies, and strengthening my understanding of programming and software design. 
 This GitHub is a collection of my projects and progress over time!
-<br><br>
-<br><br>
-<br><br>
 
 ## Interests!
-📚 Reading 
-🎨 Art
-🌳 Hiking
+📚 Reading <br>
+🎨 Art <br>
+🌳 Hiking <br>
   
 ## My Tech Stack!
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,git,github,vscode)](https://skillicons.dev)
