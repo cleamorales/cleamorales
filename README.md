@@ -12,9 +12,9 @@ This GitHub is a collection of my projects and progress over time!
 <br><br>
 
 ## Interests!
-- Reading 
-- Art
-- Hiking
+📚 Reading 
+🎨 Art
+🌳 Hiking
   
 ## My Tech Stack!
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,git,github,vscode)](https://skillicons.dev)
