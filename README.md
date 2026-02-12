@@ -14,7 +14,7 @@ This GitHub is a collection of my projects and progress over time!
 🌳 Hiking <br>
   
 ## My Tech Stack!
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,react,cpp,nodejs,git,github,vscode)](https://skillicons.dev)
 
 
 
